@@ -32,4 +32,3 @@ This project is a web application built with Flask that predicts future DBS shar
 
 -   [PythonAnywhere Deployment](https://gnoriqaus.pythonanywhere.com/)
 -   [Render Deployment](https://your-pythonanywhere-app.com)
--   [Github](https://github.com/weikangg/BC3415-HW1)
